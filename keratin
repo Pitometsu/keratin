@@ -4,7 +4,7 @@ LC_COLLATE=C
 LOGDIR="/tmp"
 LOGFILE="$LOGDIR/keratin.log"
 CACHE_DIR="$HOME/.local/share/keratin"
-P="keratin"
+P="COPY"
 
 first_selection() {
   declare -A selections
